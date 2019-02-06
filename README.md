@@ -3,8 +3,8 @@
   <p align="center">A lista completa de emojis do GitHub</p>
 </p>
 
-Deixe suas descrições mais interessantes com os emojis do GitHub. Abaixo você encontra a lista completa. 
-PAra utilizar basta colocar o nome do emoji com dois pontos no início e no fim, como na tabela abaixo.
+Deixe suas descrições mais interessantes com os emojis do GitHub. Abaixo você encontra a lista completa. <br>
+Para utilizar basta colocar o nome do emoji com dois pontos no início e no fim, como na tabela abaixo.
 
 <sub>Diga "Oi" <br> 
   <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
