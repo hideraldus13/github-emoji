@@ -96,8 +96,8 @@ Para utilizar basta colocar o nome do emoji com dois pontos no início e no fim,
 | :camel: `:camel:` | :sheep: `:sheep:` | :elephant: `:elephant:` |
 | :panda_face: `:panda_face:` | :snake: `:snake:` | :bird: `:bird:` |
 | :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :hatching_chick: `:hatching_chick:` |
-| :chicken: `:chicken:` | :penguin: `:penguin:` | :turtle: `:turtle:` |
-| :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
+| :chicken: `:chicken:` |:duck: `:duck:` | :penguin: `:penguin:` | 
+|:turtle: `:turtle:` | :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
 | :beetle: `:beetle:` | :snail: `:snail:` | :octopus: `:octopus:` |
 | :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
 | :whale2: `:whale2:` | :dolphin: `:dolphin:` | :cow2: `:cow2:` |
