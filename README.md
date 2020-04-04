@@ -97,7 +97,7 @@ Para utilizar basta colocar o nome do emoji com dois pontos no início e no fim,
 | :panda_face: `:panda_face:` | :snake: `:snake:` | :bird: `:bird:` |
 | :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :hatching_chick: `:hatching_chick:` |
 | :chicken: `:chicken:` |:duck: `:duck:` | :penguin: `:penguin:` | 
-|:turtle: `:turtle:` | :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
+|:turtle: `:turtle:` | :bug: `:bug:` | :honeybee: `:honeybee:` | 
 | :beetle: `:beetle:` | :snail: `:snail:` | :octopus: `:octopus:` |
 | :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
 | :whale2: `:whale2:` | :dolphin: `:dolphin:` | :cow2: `:cow2:` |
@@ -107,14 +107,14 @@ Para utilizar basta colocar o nome do emoji com dois pontos no início e no fim,
 | :pig2: `:pig2:` | :mouse2: `:mouse2:` | :ox: `:ox:` |
 | :dragon_face: `:dragon_face:` | :blowfish: `:blowfish:` | :crocodile: `:crocodile:` |
 | :dromedary_camel: `:dromedary_camel:` | :leopard: `:leopard:` | :cat2: `:cat2:` |
-| :poodle: `:poodle:` | :paw_prints: `:paw_prints:` | :bouquet: `:bouquet:` |
+| :poodle: `:poodle:` | :ant: `:ant:` | :paw_prints: `:paw_prints:` | 
 | :cherry_blossom: `:cherry_blossom:` | :tulip: `:tulip:` | :four_leaf_clover: `:four_leaf_clover:` |
 | :rose: `:rose:` | :sunflower: `:sunflower:` | :hibiscus: `:hibiscus:` |
-| :maple_leaf: `:maple_leaf:` | :leaves: `:leaves:` | :fallen_leaf: `:fallen_leaf:` |
-| :herb: `:herb:` | :mushroom: `:mushroom:` | :cactus: `:cactus:` |
+| :bouquet: `:bouquet:` | :maple_leaf: `:maple_leaf:` | :leaves: `:leaves:` | 
+| :fallen_leaf: `:fallen_leaf:` | :herb: `:herb:` | :mushroom: `:mushroom:` | 
 | :palm_tree: `:palm_tree:` | :evergreen_tree: `:evergreen_tree:` | :deciduous_tree: `:deciduous_tree:` |
 | :chestnut: `:chestnut:` | :seedling: `:seedling:` | :blossom: `:blossom:` |
-| :ear_of_rice: `:ear_of_rice:` | :shell: `:shell:` | :globe_with_meridians: `:globe_with_meridians:` |
+| :ear_of_rice: `:ear_of_rice:` | :cactus: `:cactus:` | :shell: `:shell:` | 
 | :sun_with_face: `:sun_with_face:` | :full_moon_with_face: `:full_moon_with_face:` | :new_moon_with_face: `:new_moon_with_face:` |
 | :new_moon: `:new_moon:` | :waxing_crescent_moon: `:waxing_crescent_moon:` | :first_quarter_moon: `:first_quarter_moon:` |
 | :waxing_gibbous_moon: `:waxing_gibbous_moon:` | :full_moon: `:full_moon:` | :waning_gibbous_moon: `:waning_gibbous_moon:` |
@@ -122,7 +122,7 @@ Para utilizar basta colocar o nome do emoji com dois pontos no início e no fim,
 | :first_quarter_moon_with_face: `:first_quarter_moon_with_face:` | :moon: `:moon:` | :earth_africa: `:earth_africa:` |
 | :earth_americas: `:earth_americas:` | :earth_asia: `:earth_asia:` | :volcano: `:volcano:` |
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
-| :squirrel: `:squirrel:` |
+| :squirrel: `:squirrel:` | :globe_with_meridians: `:globe_with_meridians:` |
 
 <br>
 
