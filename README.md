@@ -1,15 +1,14 @@
 <p align="center">
-  <h2 align="center">Emojis do GitHub</h2>
+  <h2 align="center">:milky_way: Emojis do GitHub</h2>
   <p align="center">A lista completa de emojis do GitHub</p>
 </p>
 
-Deixe suas descrições mais interessantes com os emojis do GitHub. Abaixo você encontra a lista completa. <br>
+Deixe suas descrições mais interessantes com os emojis do GitHub. <br>
 Para utilizar basta colocar o nome do emoji com dois pontos no início e no fim, como na tabela abaixo.
 
 <sub>Diga "Oi" <br> 
-  <a href="https://medium.com/dev-in-anything"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
-  <a href="https://twitter.com/hideraldoluis_"><img src="https://img.shields.io/badge/Twitter-%40hideraldoluis__-blue.svg"/></a><br>
-  <a href="https://www.linkedin.com/in/hideraldoluis/"><img src="https://img.shields.io/badge/LinkedIn-%40hideraldoluis_-blue.svg"/></a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
 </sub>
 
 <br>
