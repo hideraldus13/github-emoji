@@ -1,3 +1,5 @@
+
+![8864305](https://github.com/hideraldus13/github-emoji/assets/137809210/26094da9-03d8-430d-8416-436c420b7b5c)
 <p align="center">
   <h2 align="center">:milky_way: Emojis do GitHub</h2>
   <p align="center">A lista completa de emojis do GitHub</p>
